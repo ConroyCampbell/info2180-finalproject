@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 $index = htmlspecialchars(filter_input(INPUT_GET,'index',FILTER_SANITIZE_STRING)); 
 
 require_once 'dbconfig.php';
