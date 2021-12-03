@@ -1,7 +1,7 @@
 # info2180-finalproject
 
 Conroy Campbell
-Kimekko Williams
+Kimmeko Williams
 Abigail Mehabear
 Ramona Stanberry
 Dominique Reddicks
